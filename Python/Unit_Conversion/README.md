@@ -12,4 +12,4 @@ A simple command-line utility that converts distance in meters to centimeters.
 2. Open your terminal in the directory where `converter.py` is saved.
 3. Run the following command:
    ```bash
-   python Unit_Converter.py
+   python converter.py
