@@ -1,21 +1,24 @@
 # Grade Classification
 
-A simple Python program...
+A simple Python program that takes a student's marks and determines their grade using conditional statements.
 
 ## Features
+- **Input Handling:** Takes marks from the user and converts them into an integer.
+- **Classification:** Assigns a grade based on the student's marks.
+- **Validation:** Detects scores below 0 or above 100 as invalid.
+- **Conditional Logic:** Uses `if`, `elif`, and `else` to make decisions.
 
-- Input handling
-- Classification
-- Validation
+## Grade Rules
+- **90–100:** A
+- **80–89:** B
+- **70–79:** C
+- **60–69:** D
+- **0–59:** F
 
 ## How to Run
 
-...
-
-## Example
-
-...
-
-## Concepts Practiced
-
-...
+1. Ensure you have Python installed.
+2. Clone this repository or download the `grade.py` file.
+3. Open your terminal and run:
+   ```bash
+   python grade.py
