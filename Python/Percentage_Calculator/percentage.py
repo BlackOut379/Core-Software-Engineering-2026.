@@ -26,7 +26,7 @@ def main():
         x = percent(total, actual_subject_count) 
         print(f"Percentage is {x:.2f}%")
     else:
-        print("No marks were entered. Cannot calculate percentage."))
+        print("No marks were entered. Cannot calculate percentage.")
 
 def percent(total,count):
     return total/count
